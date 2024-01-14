@@ -131,17 +131,12 @@ Natural Language Processing -->
 
 ## 🖥️ Workspace Setup <br>
 
-![Ryzen 7 3750H](https://img.shields.io/badge/Ryzen_7_3750H-0071C5?style=for-the-badge&logo=Ryzen&logoColor=white)
+![Intel i5 11 Gen](https://img.shields.io/badge/Ryzen_7_3750H-0071C5?style=for-the-badge&logo=Ryzen&logoColor=white)
 ![NVIDIA GTX-1650](https://img.shields.io/badge/NVIDIA-GTX_1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![VS-Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
 
-Want to read more?<br>
-### That's it about me ,for more info Checkout **Personal website** <br>👇👇👇
-**[◉/  \◉](https://port-folio-github-io.vercel.app/)**
-
-<hr>
 
 ## 📈 Stats <br>
 
