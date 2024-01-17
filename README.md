@@ -39,13 +39,6 @@ Here are some ideas to get you started:
 
 <hr>
 
-## 🏅 Achievements
--   🤝 Hacktober Fest Winner for adding quality pull requests at Hacktober Fest 2022 (October 2022) <br>
--   🥇 1st Ranked Winner of Axie Infinity Tournament (Won Rs 30,000 Cash Prize) <br>
--   🥇 5th Runner up at Hackathon Competition at SITS (October 2022) <br>
-
-<hr>
-
 ## 🛠️ Skills <br>
 
 ### Languages <br>
