@@ -22,18 +22,16 @@ Here are some ideas to get you started:
 <hr>
 
 ## 🚀 About Me
-### Java full stack developer 🎮🌐📱
-👋 Hey there! I'm Karuna sahane, and I'm a big fan all things tech! I love exploring the exciting worlds of Artificial Intelligence (AI) and Machine Learning (ML). It's like having superpowers to do really cool things!
+### Web developer 🎮🌐📱
+👋 Hey there! I'm Karuna sahane, and I'm a big fan all things tech! I love exploring the exciting world of technologies. It's like having superpowers to do really cool things!
 
-🎓 I'm currently studying Computer Science & Engineering at Sinhgad College of Engineering. It's like being in a video game, where I'll level up and graduate in mid-2024! Along my journey, I've learned how to build awesome websites using the MERN (MongoDB, javascript, React, wordpress) stack. It's like building a website with different tools and making it look really cool!
+🎓 I'm currently studying Computer Science & Engineering at Sinhgad College of Engineering. It's like being in a video game, where I'll level up and graduate in mid-2024! Along my journey, I've learned how to build awesome websites. It's like building a website with different tools and making it look really cool!
 
-📱 Besides that, I've also had some fun adventures in Java development. While I'm mostly into java Full Stack development, I can't resist the excitement of exploring the tech world and creating cool websites!
+📱 Besides that, I've also had some fun adventures in Java development. While I'm mostly into java development, I can't resist the excitement of exploring the tech world and creating cool websites!
 
 🌱 I'm always leveling up my skills in core and advanced java development. I think these powers can make a big impact and change the world. Let's team up and create some amazing things for people to enjoy!
 
-🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from dance , Lawn Tennis , and touch typing(65WPM) to some whacky ones like 75 Hard Challenge.
-
-📚 I also love reading books on personal development & watching financial literacy. My favorite ones are The Almanack Of Naval Ravikant by Eric Jorgenson in the genre of personal development and Rich Dad Poor Dad by Robert Kiyosaki in the genre of financial literacy.
+🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from dance , traveling , and exploring.
 
 📫 Want to join forces on this epic journey? Let's connect on LinkedIn and have a chat , or any other tech adventures we can embark on!
 
@@ -56,17 +54,15 @@ Natural Language Processing -->
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-<!-- ![next](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF) -->
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-<!-- ![tailwind-css](https://img.shields.io/badge/tailwind_css-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) -->
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
+<!-- ![tailwind-css](https://img.shields.io/badge/tailwind_css-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) -->
+<!-- ![next](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF) -->
 
 ### Backend-End Development 🧠 <br>
 ![Java](https://img.shields.io/badge/java-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
@@ -83,22 +79,23 @@ Natural Language Processing -->
 <!-- ### Cross Platform Development <br> -->
 <!-- ![flutter](https://img.shields.io/badge/Flutter-28B6F6?style=for-the-badge&logo=flutter&logoColor=white) -->
 
-<h3> Framworks </h3> <br> <p>
-	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/numpy.svg" alt="Numpy" width="40" height="40" />&nbsp;
-	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/pandas.svg" alt="Pandas" width="40" height="40" />&nbsp;	
+<!--<h3> Framworks </h3> <br> <p> -->
+<!--	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/numpy.svg" alt="Numpy" width="40" height="40" />&nbsp; -->
+<!--	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/pandas.svg" alt="Pandas" width="40" height="40" />&nbsp; -->	
 <!-- 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/pytorch.png" alt="PyTorch" width="110" height="35" />&nbsp; -->
 <!-- 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/pyspark.png" alt="PySpark" width="110" height="50" />&nbsp; -->
-	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/tensorflow-tf.svg" alt="TensorFlow" width="40" height="40" />&nbsp;
-	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/keras.svg" alt="Keras" width="40" height="40" />&nbsp;
+<!--	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/tensorflow-tf.svg" alt="TensorFlow" width="40" height="40" />&nbsp; -->
+<!--	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/keras.svg" alt="Keras" width="40" height="40" />&nbsp; -->
 <!-- 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/scikit-learn.svg" alt="Scikit Learn" width="60" height="40" />&nbsp; -->
 <!-- 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/django.svg" alt="Django" width="40" height="40" />&nbsp; -->
 <!-- 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/flask.svg" alt="Flask" width="40" height="40" />&nbsp; -->
-	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/matplotlib.svg" alt="Matplotlib" width="60" height="40" />&nbsp;</p>
+<!--	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/matplotlib.svg" alt="Matplotlib" width="60" height="40" />&nbsp;</p> -->
+
+ 
 <h3> Software Packages </h3> <br> <p>
 <!-- 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/gitlab.svg" alt="GitLab" width="40" height="40" />&nbsp; -->
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/jupyter.png" alt="Jupyter" width="40" height="40" />&nbsp;
 <!-- 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/zeppelin.png" alt="Zeppelin" width="40" height="40" />&nbsp;/ -->
-	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/sagemaker.png" alt="Sagemaker" width="40" height="40" />&nbsp;
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/netbeans.svg" alt="Netbeans" width="50" height="50" />&nbsp;
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/eclipse.svg" alt="eclipse" width="40" height="40" />&nbsp;
 <!-- 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/tableau.svg" alt="Tableau" width="40" height="40" />&nbsp; -->
