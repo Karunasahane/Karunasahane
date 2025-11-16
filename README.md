@@ -22,14 +22,17 @@ Here are some ideas to get you started:
 <hr>
 
 ## 🚀 About Me
-### Web developer || Data Analyst enthusiast || ML enthusiast
+### Java Backend Developer | Microservices | SQL Optimization | Tech Enthusiast
 👋 Hey there! I'm Karuna sahane, and I'm a big fan all things tech! I love exploring the exciting world of technologies. It's like having superpowers to do really cool things!
 
-🎓 I'm currently studying Computer Science & Engineering at Sinhgad College of Engineering. It's like being in a video game, where I'll level up and graduate in mid-2024! Along my journey, I've learned how to build awesome websites. It's like building a website with different tools and making it look really cool!
+🎓 I graduated in Computer Engineering (2024) from Sinhgad College of Engineering, Pune, with a strong foundation in Data Structures, Algorithms, OOP, and DBMS.
 
-🌱 I'm always leveling up my skills in core and advanced java development. I think these powers can make a big impact and change the world. Let's team up and create some amazing things for people to enjoy! I can't resist the excitement of exploring the tech world and creating cool websites!
+🌱 <b>Jr Associate – Software Developer</b> with 1+ year hands-on experience in backend development, microservices, SQL optimization, and enterprise application maintenance. I enjoy building scalable backend systems, improving performance, and contributing to clean, production-ready code.
 
-👾 I am Enthusiastic Data Analyst with a strong emphasis on data science and business analytics, supported by a solid understanding of these concepts and relevant certifications. Ready to leverage expertise to drive actionable insights and contribute to organizational success.
+👾 Skilled in Java, Spring Boot, REST APIs, and experienced in implementing code changes, API enhancements, performance tuning, and handling real-world backend workflows.
+Solid foundation in DSA, OOP, DBMS, with proven ability to quickly understand requirements, solve backend problems, and deliver clean, efficient, production-ready code.
+
+🗄 Experience with multiple databases including MSSQL, MySQL, and MongoDB, with strong understanding of relational/NoSQL concepts.
 
 🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from dance , traveling , and exploring.
 
@@ -42,9 +45,8 @@ Here are some ideas to get you started:
 ### Languages <br>
 
 ![Java](https://img.shields.io/badge/Java-%2300599C.svg?style=for-the-badge&logo=java&logoColor=yellow)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%6DA55F.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 <!-- 
 ### AI-ML-Data Science
 Natural Language Processing -->
@@ -61,6 +63,8 @@ Natural Language Processing -->
 
 ### Backend-End Development 🧠 <br>
 ![Java](https://img.shields.io/badge/java-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Springboot](https://img.shields.io/badge/springboot-%23563D7C?style=for-the-badge&logo=node.js&logoColor=white)
+![Microservices](https://img.shields.io/badge/microservices-20232A?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -78,41 +82,16 @@ Natural Language Processing -->
 
 <!-- ### Cross Platform Development <br> -->
 <!-- ![flutter](https://img.shields.io/badge/Flutter-28B6F6?style=for-the-badge&logo=flutter&logoColor=white) -->
-
-<h3> Framworks </h3> <br> <p> 
-	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/numpy.svg" alt="Numpy" width="40" height="40" />&nbsp; 
-	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/pandas.svg" alt="Pandas" width="40" height="40" />&nbsp; 	
- <!--	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/pytorch.png" alt="PyTorch" width="110" height="35" />&nbsp; 
- 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/pyspark.png" alt="PySpark" width="110" height="50" />&nbsp; 
-	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/tensorflow-tf.svg" alt="TensorFlow" width="40" height="40" />&nbsp; 
-	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/keras.svg" alt="Keras" width="40" height="40" />&nbsp; 
- 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/scikit-learn.svg" alt="Scikit Learn" width="60" height="40" />&nbsp; 
- 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/django.svg" alt="Django" width="40" height="40" />&nbsp; -->
-	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/matplotlib.svg" alt="Matplotlib" width="60" height="40" />&nbsp;</p>
-
  
 <h3> Software Packages </h3> <br> <p>
 <!-- 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/gitlab.svg" alt="GitLab" width="40" height="40" />&nbsp; -->
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/jupyter.png" alt="Jupyter" width="40" height="40" />&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="Intellij" width="40" height="40" />&nbsp;
 <!-- 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/zeppelin.png" alt="Zeppelin" width="40" height="40" />&nbsp;/ -->
-	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/netbeans.svg" alt="Netbeans" width="50" height="50" />&nbsp;
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/eclipse.svg" alt="eclipse" width="40" height="40" />&nbsp;
- 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/tableau.svg" alt="Tableau" width="40" height="40" />&nbsp; 
-	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/office.svg" alt="Office" width="40" height="40" />&nbsp;</p>
+	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/office.svg" alt="Office" width="40" height="40" />&nbsp;
+		<img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="mssql" width="50" height="50" />&nbsp;</p>
 <br>
-
-<hr>
-
-### Design Tools <br>
-
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-<!-- ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) -->
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-<!-- 
-### Testing
-
-![mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
-![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) -->
 
 <hr>
 
